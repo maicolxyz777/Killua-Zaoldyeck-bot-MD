@@ -15,7 +15,7 @@ href="https://github.com/thecarlos19/black-clover-MD/stargazers/"><img title="St
 >𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒
 
 
-## `𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎` 
+## `killua - Zaoldyeck-bot-MD☘︎` 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=blackclover︎+;thecarlos19+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐂𝐫𝐞𝐚𝐝𝐨𝐫;1000+𝘊𝘰𝘮𝘢𝘯𝘥𝘰𝘴;blackclover+✰✰✰✰✰">      
 </p>
 <img src="https://files.catbox.moe/xujnzu.jpg" width="400" height="230"/>
