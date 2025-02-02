@@ -12,17 +12,17 @@ href="https://github.com/thecarlos19/black-clover-MD/stargazers/"><img title="St
   <img src="https://readme-typing-svg.demolab.com/?lines= thecarlos+lanzó ;Nueva+versión+4.1.0 ; By:+The+Legends; blackclover+El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=500" alt="Example Usage - README Typing SVG">
 </p>
 
->𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒
+>𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Davidius
 
 
 ## `killua - Zaoldyeck-bot-MD☘︎` 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=blackclover︎+;thecarlos19+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐂𝐫𝐞𝐚𝐝𝐨𝐫;1000+𝘊𝘰𝘮𝘢𝘯𝘥𝘰𝘴;blackclover+✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=blackclover︎+;thecarlos19+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐂𝐫𝐞𝐚𝐝𝐨𝐫;1000+𝘊𝘰𝘮𝘢𝘯𝘥𝘰𝘴;Killua-Zaoldyeck-bot-MD+✰✰✰✰✰">      
 </p>
 <img src="https://files.catbox.moe/xujnzu.jpg" width="400" height="230"/>
 </p>
 ------------------
 
-black clover el mejor bot 🤖
+Killua-Zaoldyeck-bot-MD el mejor bot 🤖
 
 
 ### **`💭 Contáctanos`**
@@ -31,10 +31,10 @@ black clover el mejor bot 🤖
 <summary><b> 📝 Contáctos</b></summary>
 
 * carloscristobal30@gmail.com
-* https://wa.me/525544876071
-* https://wa.me/595985547825
-* https://wa.me/523318360934
-* https://wa.me/523142183828
+* https://wa.me/595975677765 
+* https://wa.me/595975677765 
+* https://wa.me/595975677765 
+* https://wa.me/595975677765 
 
 </details>
 
