@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20black-clover%20Bot%20⚔️&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%killua-Zaoldyeck-bot-MD-clover%20Bot%20⚔️&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 > **`🤖 Versión Actual: 4.1.0`**  
 <a
-href="https://github.com/thecarlos19/black-clover-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/thecarlos19/black-clover-MD-ST?color=yellow&style=flat-square"></a>
+href="https://github.com/thecarlos19/black-clover-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davidius19/black-clover-MD-ST?color=yellow&style=flat-square"></a>
 
 <a href="https://github.com/thecarlos19/black-clover-MD-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/thecarlos19/black-clover-MD-ST?label=Espectadores&style=social"></a>
 
