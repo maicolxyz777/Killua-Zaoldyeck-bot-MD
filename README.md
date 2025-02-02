@@ -9,7 +9,7 @@ href="https://github.com/thecarlos19/black-clover-MD/stargazers/"><img title="St
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines= thecarlos+lanzó ;Nueva+versión+4.1.0 ; By:+The+Legends; blackclover+El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=500" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines= thecarlos+lanzó ;Nueva+versión+4.1.0 ; By:+The+Legends;Killua-Zaoldyeck-bot-MD+El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=500" alt="Example Usage - README Typing SVG">
 </p>
 
 >𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Davidius
