@@ -66,6 +66,6 @@ Killua-Zaoldyeck-bot-MD el mejor bot 🤖
 
 
 ## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕` 
-<a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
+<a href="https://github.com/maicolxyz777"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="maicolxyz777"/></a>
 
 [© Powered By the-legends ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
